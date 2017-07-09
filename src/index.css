@@ -1,0 +1,16 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "futura-pt", Arial;
+  font-style: normal;
+  color: #1f1f1f;
+}
+
+
+h1 {
+  font-weight: normal;
+  text-align: center;
+}
