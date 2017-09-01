@@ -65,7 +65,7 @@ class App extends Component {
             <ProfilePicture src={Mason} />
             <div>
               <h2>Hello, I&apos;m Mason!</h2>
-              <p>I&apos;ve been building software professionally for over a twelve years. After five years at <a href="https://thoughtbot.com/" target="_blank">thoughtbot</a> I&apos;ve decided to go out of my own. If you&apos;re working on a project on the Web or the Blockchain I&apos;d love to <a target="_blank" href="mailto:mason@kissr.co">chat</a>!</p>
+              <p>I&apos;ve been building software professionally for over a twelve years. After five years at <a href="https://thoughtbot.com/" target="_blank">thoughtbot</a> I&apos;ve decided to go out on my own. If you&apos;re working on a project on the Web or the Blockchain I&apos;d love to <a target="_blank" href="mailto:mason@kissr.co">chat</a>!</p>
             </div>
           </Profile>
         </Container>
